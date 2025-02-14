@@ -27,7 +27,7 @@ Now you're ready to ask the big question!
 
 ## 💕 Made with Love 💕
 
-This project was made with love by [Momin Ali](https://github.com/momin9). Feel free to use it to ask your own special someone to be your Valentine!
+This project was made with love by [Momin Ali](https://github.com/Momin9). Feel free to use it to ask your own special someone to be your Valentine!
 
 ## 💌 Feedback and Contributions 💌
 
